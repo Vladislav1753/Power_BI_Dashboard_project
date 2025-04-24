@@ -3,7 +3,7 @@
 Welcome to my first Power BI project!
 
 Project Files:
-- Sales_dashboard.pbix - Power BI files with the dashboard itself
+- Sales_dashboard.pbix - Power BI file with the dashboard itself.
 - shopping_trends.csv - Dataset from Kaggle that I use for this project.
 Thanks to the author of this dataset and here's the link: https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
 ---
